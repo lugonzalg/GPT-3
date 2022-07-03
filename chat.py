@@ -1,6 +1,5 @@
 from gpt3 import gpt3
 
-
 def chat():
     prompt = """Human: Hey, how are you doing?
 AI: I'm good! What would you like to chat about?
